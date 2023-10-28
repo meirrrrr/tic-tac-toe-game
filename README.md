@@ -5,4 +5,4 @@
 * JavaScript
 ---
 ## Link to game
-``` https://meirrrrr.github.io/tic-tac-toe-game/ ```
+https://meirrrrr.github.io/tic-tac-toe-game/ 
